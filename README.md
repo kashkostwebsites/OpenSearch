@@ -4,4 +4,4 @@ I have made a search engine using
 and 
 # HTML
 
-link is opensearch.netlify.app
+link is https://opensearch-now.netlify.app
